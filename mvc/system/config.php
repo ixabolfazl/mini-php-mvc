@@ -1,7 +1,7 @@
 <?php
 
 
-define("BASE_URL","http://localhost/mvc/");
+define("BASE_URL","http://yourdomin.com/mvc/");
 define("BASE_DIR","/mvc/");
 
 
@@ -11,7 +11,7 @@ if($temp==BASE_DIR){
     $temp="/mvc/home";
 }
 $current_route=str_replace(BASE_DIR,"",$temp);
-define("DB_HOST","localhost");
-define("DB_NAME","mvc_blog");
-define("DB_USERNAME","root");
-define("DB_PASSWORD","mysql");
+define("DB_HOST","");
+define("DB_NAME","");
+define("DB_USERNAME","");
+define("DB_PASSWORD","");
