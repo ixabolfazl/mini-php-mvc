@@ -1,5 +1,5 @@
 # mini-php-mvc
-## a small php project with mvc structure 
+### a small php project with mvc structure 
 
-features:   Write, edit and delete articles along with categories
-**- Write, edit and delete articles along with categories **
+features:
+**Write, edit and delete articles along with categories
